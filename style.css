@@ -93,9 +93,6 @@ h1 {
   .answer {
     font-size: 1rem;
   }
-}
-
-@media screen and (max-width: 400px) {
   .content-container.active .answer {
     height: 85px;
   }
