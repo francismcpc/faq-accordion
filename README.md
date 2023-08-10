@@ -7,6 +7,9 @@ This repository showcases a responsive FAQ (Frequently Asked Questions) accordio
 - Responsive Design: The accordion layout adapts to various screen sizes, ensuring a consistent experience across devices.
 - Styling and Icons: The accordion includes visually appealing styling and icon rotation to indicate expanded/collapsed states.
 
+## Demo
+Check out the live demo of the FAQ Accordion [here](https://faq-accordion-theta.vercel.app/).
+
 ## Technologies Used
 - HTML: The structure of the FAQ accordion is built using HTML elements.
 - CSS: Styling and animations are implemented using CSS to create an attractive and user-friendly interface.
