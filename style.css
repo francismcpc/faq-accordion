@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  -webkit-tap-highlight-color: transparent;
 }
 
 :root {
@@ -23,6 +22,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* max-width when in mobile */
@@ -57,7 +57,7 @@ body {
 }
 .content-container.active .question {
   color: var(--accent-color);
-  transition: 0.5s ease;
+  transition: 0.1s ease;
 }
 
 .content-container.active img {
